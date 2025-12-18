@@ -36,7 +36,7 @@ The project focuses on the following analytical tasks:
 # Query 1 - Output Screenshot
 ![Query Output - 1](/Images/q-output-1.png)
 # Query 2 - Output Screenshot
-![Query Output - 2](/Images/q.output 2.png)
+![Query Output - 2](/Images/q-output-2.png)
 8. Key Insights Derived from Analysis
 The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
 a)	---------------
