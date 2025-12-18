@@ -33,7 +33,10 @@ The project focuses on the following analytical tasks:
 # SQL Queries and Analysis: 
 [View Advanced SQL Query Script](Edtech-Advanced-SQL-Query.sql)
 # Execution and Output: 
-![]()
+# Query 1 - Output Screenshot
+![Query Output - 1](/images/q.output 1.png)
+# Query 2 - Output Screenshot
+![Query Output - 2](/images/q.output 2.png)
 8. Key Insights Derived from Analysis
 The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
 a)	---------------
